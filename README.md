@@ -26,7 +26,7 @@ kickshark.start({
 ---
 
 ### Project Overview
-> Check out a full example in the `example/` folder!
+> Check out a full example in the [`example/`](https://github.com/ryannhg/kickshark/tree/master/example) folder!
 
 To get up and running, just create the following folder structure:
 
