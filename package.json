@@ -1,0 +1,19 @@
+{
+  "name": "kickshark",
+  "version": "1.0.0",
+  "description": "Create frontend templates with Express and Pug.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "pug",
+    "express"
+  ],
+  "author": "Ryan Haskell-Glatz",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "pug": "^2.0.3"
+  }
+}
